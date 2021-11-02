@@ -21,8 +21,8 @@ defusedxml==0.7.1
 entrypoints==0.3
 h11==0.12.0
 idna==3.3
-ipykernel @ file:///C:/ci/ipykernel_1633545574250/work/dist/ipykernel-6.4.1-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1632141541768/work
+#ipykernel @ file:///C:/ci/ipykernel_1633545574250/work/dist/ipykernel-6.4.1-py3-none-any.whl
+#ipython @ file:///C:/ci/ipython_1632141541768/work
 #ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.5
 #jedi @ file:///C:/ci/jedi_1611315808330/work
