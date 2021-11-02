@@ -15,21 +15,21 @@ colorlover==0.3.0
 cryptography==35.0.0
 cufflinks==0.17.3
 cycler==0.10.0
-debugpy @ file:///C:/ci/debugpy_1629222854708/work
-decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+#debugpy @ file:///C:/ci/debugpy_1629222854708/work
+#decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
 defusedxml==0.7.1
 entrypoints==0.3
 h11==0.12.0
 idna==3.3
 ipykernel @ file:///C:/ci/ipykernel_1633545574250/work/dist/ipykernel-6.4.1-py3-none-any.whl
 ipython @ file:///C:/ci/ipython_1632141541768/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+#ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.5
-jedi @ file:///C:/ci/jedi_1611315808330/work
+#jedi @ file:///C:/ci/jedi_1611315808330/work
 Jinja2==3.0.2
 jsonschema==4.1.2
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
-jupyter-core @ file:///C:/ci/jupyter_core_1633420665940/work
+#jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+#jupyter-core @ file:///C:/ci/jupyter_core_1633420665940/work
 jupyter-server==1.11.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
@@ -37,7 +37,7 @@ kiwisolver==1.3.2
 lxml==4.6.3
 MarkupSafe==2.0.1
 matplotlib==3.4.3
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+#matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
 mistune==0.8.4
 nbclient==0.5.4
 nbconvert==6.2.0
@@ -49,33 +49,33 @@ outcome==1.1.0
 packaging==21.0
 pandas==1.3.4
 pandocfilters==1.5.0
-parso @ file:///tmp/build/80754af9/parso_1617223946239/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+#parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+#pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.4.0
 plotly==5.3.1
 prometheus-client==0.11.0
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+#prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
 pycparser==2.20
-Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+#Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
 pyOpenSSL==21.0.0
 pyparsing==3.0.3
 pyrsistent==0.18.0
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+#python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.3
-pywin32==228
+#pywin32==228
 pywinpty==1.1.4
-pyzmq @ file:///C:/ci/pyzmq_1628276144921/work
+#pyzmq @ file:///C:/ci/pyzmq_1628276144921/work
 requests==2.26.0
 requests-unixsocket==0.2.0
 scipy==1.7.1
 seaborn==0.11.2
 selenium==4.0.0
 Send2Trash==1.8.0
-six @ file:///tmp/build/80754af9/six_1623709665295/work
+#six @ file:///tmp/build/80754af9/six_1623709665295/work
 sniffio==1.2.0
 sortedcontainers==2.4.0
 soupsieve==2.2.1
-spyder-kernels @ file:///C:/ci/spyder-kernels_1634237040526/work
+#spyder-kernels @ file:///C:/ci/spyder-kernels_1634237040526/work
 tenacity==8.0.1
 terminado==0.12.1
 testpath==0.5.0
