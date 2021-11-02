@@ -79,13 +79,13 @@ soupsieve==2.2.1
 tenacity==8.0.1
 terminado==0.12.1
 testpath==0.5.0
-tornado @ file:///C:/ci/tornado_1606942392901/work
-traitlets @ file:///tmp/build/80754af9/traitlets_1632522747050/work
+#tornado @ file:///C:/ci/tornado_1606942392901/work
+#traitlets @ file:///tmp/build/80754af9/traitlets_1632522747050/work
 trio==0.19.0
 trio-websocket==0.9.2
 urllib3==1.26.7
 voila==0.2.16
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+#wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
 websocket-client==1.2.1
 widgetsnbextension==3.5.1
