@@ -22,8 +22,8 @@ entrypoints==0.3
 h11==0.12.0
 idna==3.3
 ipykernel
-ipython==7.29.0
-#ipython-genutils=0.2.0
+ipython==
+ipython-genutils
 ipywidgets==7.6.5
 jedi==0.18.0
 Jinja2==3.0.2
@@ -62,8 +62,8 @@ pyparsing==3.0.3
 pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2021.3
-#pywin32==302
-#pywinpty==1.1.4
+pywin32
+pywinpty
 pyzmq==22.3.0
 requests==2.26.0
 requests-unixsocket==0.2.0
@@ -75,7 +75,7 @@ six==1.16.0
 sniffio==1.2.0
 sortedcontainers==2.4.0
 soupsieve==2.2.1
-#spyder-kernels @ file:///C:/ci/spyder-kernels_1634237040526/work
+spyder-kernels
 tenacity==8.0.1
 terminado==0.12.1
 testpath==0.5.0
