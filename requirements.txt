@@ -22,7 +22,7 @@ entrypoints==0.3
 h11==0.12.0
 idna==3.3
 ipykernel
-ipython==
+ipython
 ipython-genutils
 ipywidgets==7.6.5
 jedi==0.18.0
