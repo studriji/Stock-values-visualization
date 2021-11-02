@@ -63,7 +63,7 @@ pyrsistent==0.18.0
 #python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.3
 #pywin32==228
-pywinpty==1.1.4
+#pywinpty==1.1.4
 #pyzmq @ file:///C:/ci/pyzmq_1628276144921/work
 requests==2.26.0
 requests-unixsocket==0.2.0
